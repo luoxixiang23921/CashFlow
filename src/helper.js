@@ -1,4 +1,5 @@
-//Local Storage
+export const wait = () => new Promise(res => setTimeout(res, Math.random() * 1000))
+
 const generateRandomColor = () => {
   const existingBudgetLength = fetchData("budgets")?.length ?? 0;
   return `${existingBudgetLength * 34} 65% 50%`
