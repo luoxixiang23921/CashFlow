@@ -1,6 +1,7 @@
 import { Form } from "react-router-dom"
 import { UserPlusIcon } from "@heroicons/react/24/solid";
-import illustration from "../assets/illustration.jpg"
+import illustration from "../assets/illustration.jpg";
+// import savings from "../assets/savings.png";
 
 const Intro = () => {
   return (
