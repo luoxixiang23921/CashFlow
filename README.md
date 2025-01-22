@@ -5,14 +5,13 @@
 ## Demonstration 🖥️
 
 #### Intro Page :
-
-![Intro](vscode-remote://wsl%2Bubuntu/home/xixiang/budget-app/CashFlow/src/assets/IntroDemo.png)
+![Intro](https://raw.githubusercontent.com/luoxixiang23921/CashFlow/main/src/assets/IntroDemo.png)
 
 #### Home Page :
-![Dashboards](vscode-remote://wsl%2Bubuntu/home/xixiang/budget-app/CashFlow/src/assets/Dashboard1.png)
+![Dashboards](https://raw.githubusercontent.com/luoxixiang23921/CashFlow/main/src/assets/Dashboard1.png)
 
 #### List of Expenses :
-![Lists of Expenses](vscode-remote://wsl%2Bubuntu/home/xixiang/budget-app/CashFlow/src/assets/Dashboard2.png)
+![Lists of Expenses](https://raw.githubusercontent.com/luoxixiang23921/CashFlow/main/src/assets/Dashboard2.png)
 
 ## To-do 🗒️
 
